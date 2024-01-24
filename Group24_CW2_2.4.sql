@@ -1,2 +1,2 @@
 CREATE TABLE test;
-create
+create ur mum
